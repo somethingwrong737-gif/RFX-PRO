@@ -1,0 +1,9 @@
+torch
+torchaudio
+coqui-tts[codec]
+six
+imageio-ffmpeg
+yt-dlp[default]
+gradio
+pywebview
+edge-tts
